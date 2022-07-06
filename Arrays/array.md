@@ -6,19 +6,26 @@ Answer the questions below, then complete the exercises
 
 - Question 1 
     What is an array in JS?
+An array is a container to hold value types. strings, numbers, booleans, null, undefined, and objects. 
 
 - Question 2
 In your own words, why do we use arrays in Javascript
+To store multiple of the same or different data type (information) together in a list. 
 
 - Question 3
 In your own words, when should we use an array?
+You use an array when you have mulitple variable that are the same type or random types of things that you want to group together
 
 - Question 4
  What are 3 kinds of array methods, and how do we use them?
+.pop which deletes the last element in the array.
+.push adds items to the end of the array.
+.splice deletes whatever element you want from the array.
 
  - Question 5
  What ar two examples of higher order Array methods? 
-
+The forEach method is used to loop throught an array for each of the elements of that array.
+The every method is used to test whether all elements in the array complies with the condition and return true or false.
 
 
 #### Exercise 1
